@@ -1,3 +1,3 @@
-/Users/tindle/AndroidStudioProjects/DynamicGrid/example/build/intermediates/classes/debug
-/Users/tindle/AndroidStudioProjects/DynamicGrid/example/build/intermediates/pre-dexed/debug/classes-d1b0dd4a175ca387bf6b5f3cf1fe310dadbfe7a0.jar
-/Users/tindle/AndroidStudioProjects/DynamicGrid/example/build/intermediates/pre-dexed/debug/support-v4-19.1.0-c7e94654a4255680445ac654004956b70dbef4ec.jar
+/Users/tindle/Documents/MyGithub/AliDynamicGrid/example/build/intermediates/classes/debug
+/Users/tindle/Documents/MyGithub/AliDynamicGrid/example/build/intermediates/pre-dexed/debug/classes-2750056ec7ea428a866f52d89f31a7da40759244.jar
+/Users/tindle/Documents/MyGithub/AliDynamicGrid/example/build/intermediates/pre-dexed/debug/support-v4-19.1.0-c7e94654a4255680445ac654004956b70dbef4ec.jar

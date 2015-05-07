@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="/Users/tindle/Documents/MyGithub/AliDynamicGrid/example/build/intermediates/exploded-aar/AliDynamicGrid/dynamicgrid/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a5ac51acb71c7eaeb4f98605637aff4c0ef8ed5">
+        <dex dex="/Users/tindle/Documents/MyGithub/AliDynamicGrid/example/build/intermediates/pre-dexed/debug/classes-2750056ec7ea428a866f52d89f31a7da40759244.jar" />
+    </item>
+    <item
         jar="/Users/tindle/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
         jumboMode="false"
         revision="21.1.1"

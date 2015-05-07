@@ -13,7 +13,7 @@ ADDED from AndroidManifest.xml:2:1
 		ADDED from AndroidManifest.xml:2:11
 uses-sdk
 ADDED from AndroidManifest.xml:7:5
-MERGED from DynamicGrid:dynamicgrid:unspecified:7:5
+MERGED from AliDynamicGrid:dynamicgrid:unspecified:7:5
 	android:targetSdkVersion
 		ADDED from AndroidManifest.xml:7:41
 	android:minSdkVersion
