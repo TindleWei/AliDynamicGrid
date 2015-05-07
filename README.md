@@ -1,5 +1,10 @@
-DynamicGrid
-===========
+AliDynamicGrid
+==============
+
+This project is base on [askerov/DynamicGrid](https://github.com/askerov/DynamicGrid), thx to author.
+
+Here is a xmind graph to show my analyze for original DynamicGrid.
+![https://github.com/TindleWei/AliDynamicGrid/blob/master/img/dynamic_grid.png](https://github.com/TindleWei/AliDynamicGrid/blob/master/img/dynamic_grid.png)
 
 Drag and drop GridView for Android.
 
