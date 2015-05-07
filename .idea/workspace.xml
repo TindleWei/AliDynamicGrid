@@ -24,10 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d501856a-d9a9-4c35-9c9c-53addf17f55c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/DynamicGrid.xmind" afterPath="$PROJECT_DIR$/doc/DynamicGrid.xmind" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dynamicgrid/src/org/askerov/dynamicgrid/DynamicGridUtils.java" afterPath="$PROJECT_DIR$/dynamicgrid/src/org/askerov/dynamicgrid/DynamicGridUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dynamicgrid/src/org/askerov/dynamicgrid/DynamicGridView.java" afterPath="$PROJECT_DIR$/dynamicgrid/src/org/askerov/dynamicgrid/DynamicGridView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/example.iml" afterPath="$PROJECT_DIR$/example/example.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
     </list>
     <ignored path="DynamicGrid.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,8 +54,8 @@
       <file leaf-file-name="DynamicGridView.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dynamicgrid/src/org/askerov/dynamicgrid/DynamicGridView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33279222" vertical-offset="11180" max-vertical-offset="17175">
-              <caret line="772" column="42" selection-start-line="772" selection-start-column="18" selection-end-line="772" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.21103896" vertical-offset="6980" max-vertical-offset="17175">
+              <caret line="482" column="16" selection-start-line="482" selection-start-column="16" selection-end-line="482" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3947#3948#0" expanded="true" />
@@ -2110,14 +2106,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-21/android/widget/GridView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="22536" max-vertical-offset="34935">
-          <caret line="1556" column="45" selection-start-line="1556" selection-start-column="45" selection-end-line="1556" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example/src/org/askerov/dynamicgrid/example/CheeseDynamicAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="106" max-vertical-offset="810">
@@ -2219,6 +2207,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-21/android/widget/GridView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33227345" vertical-offset="16276" max-vertical-offset="34935">
+          <caret line="1147" column="19" selection-start-line="1147" selection-start-column="19" selection-end-line="1147" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-21/android/view/ViewTreeObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="7621" max-vertical-offset="14910">
@@ -2229,8 +2225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dynamicgrid/src/org/askerov/dynamicgrid/DynamicGridView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33279222" vertical-offset="11180" max-vertical-offset="17175">
-          <caret line="772" column="42" selection-start-line="772" selection-start-column="18" selection-end-line="772" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.21103896" vertical-offset="6980" max-vertical-offset="17175">
+          <caret line="482" column="16" selection-start-line="482" selection-start-column="16" selection-end-line="482" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3947#3948#0" expanded="true" />
