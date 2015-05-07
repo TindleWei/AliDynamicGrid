@@ -347,18 +347,18 @@ public class DynamicGridView extends GridView {
     private BitmapDrawable getAndAddHoverView(View v, Point point) {
 
         //let  size bigger
-        int w = (int)(v.getWidth()*1.5);
-        int h = (int)(v.getHeight()*1.5);
+        int w = (int) (v.getWidth() * 1.5);
+        int h = (int) (v.getHeight() * 1.5);
         int top;
         int left;
-        if(point == null){
+        if (point == null) {
             //first touch
-            top = (int)(v.getTop() + (v.getBottom() - v.getTop())/2 - h/2);
-            left = (int)(v.getLeft() + (v.getRight() - v.getLeft())/2 - w/2);
-        }else{
+            top = (int) (v.getTop() + (v.getBottom() - v.getTop()) / 2 - h / 2);
+            left = (int) (v.getLeft() + (v.getRight() - v.getLeft()) / 2 - w / 2);
+        } else {
             //after first touch
-            top =(int)(point.y - h/2);
-            left = (int)(point.x - w/2);
+            top = (int) (point.y - h / 2);
+            left = (int) (point.x - w / 2);
         }
 
         Bitmap b = getBitmapFromView(v);
@@ -369,8 +369,6 @@ public class DynamicGridView extends GridView {
         mHoverCellCurrentBounds = new Rect(mHoverCellOriginalBounds);
 
         drawable.setBounds(mHoverCellCurrentBounds);
-
-        Log.e("Bounds", mHoverCellCurrentBounds.toString());
 
         return drawable;
     }
@@ -519,7 +517,6 @@ public class DynamicGridView extends GridView {
         if (selectedView != null) {
             mMobileItemId = getAdapter().getItemId(position);
 
-            Log.e("startDragAtPosition", "mMobileItemId: "+mMobileItemId);
 
             if (mSelectedItemBitmapCreationListener != null)
                 mSelectedItemBitmapCreationListener.onPreSelectedItemBitmapCreation(selectedView, position, mMobileItemId);
@@ -647,7 +644,7 @@ public class DynamicGridView extends GridView {
         if (isPostHoneycomb() && mWobbleInEditMode) {
             if (mIsEditMode) {
                 restartWobble();
-            } else{
+            } else {
                 stopWobble(true);
             }
         }
