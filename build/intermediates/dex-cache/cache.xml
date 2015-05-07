@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tindle/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/tindle/AndroidStudioProjects/DynamicGrid/example/build/intermediates/pre-dexed/debug/support-v4-19.1.0-c7e94654a4255680445ac654004956b70dbef4ec.jar" />
+    </item>
+    <item
+        jar="/Users/tindle/AndroidStudioProjects/DynamicGrid/example/build/intermediates/exploded-aar/DynamicGrid/dynamicgrid/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9b574d3f2daf5fccfdbcca3b7010279ead32c760">
+        <dex dex="/Users/tindle/AndroidStudioProjects/DynamicGrid/example/build/intermediates/pre-dexed/debug/classes-d1b0dd4a175ca387bf6b5f3cf1fe310dadbfe7a0.jar" />
+    </item>
+
+</items>

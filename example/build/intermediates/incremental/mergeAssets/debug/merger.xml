@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="/Users/tindle/AndroidStudioProjects/DynamicGrid/example/build/intermediates/exploded-aar/DynamicGrid/dynamicgrid/unspecified/assets"/></dataSet><dataSet config="main"><source path="/Users/tindle/AndroidStudioProjects/DynamicGrid/example/assets"/></dataSet><dataSet config="debug"><source path="/Users/tindle/AndroidStudioProjects/DynamicGrid/example/src/debug/assets"/></dataSet></merger>

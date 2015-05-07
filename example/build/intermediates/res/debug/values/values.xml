@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/tindle/AndroidStudioProjects/DynamicGrid/example/build/intermediates/exploded-aar/DynamicGrid/dynamicgrid/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="dgv_overlap_if_switch_straight_line">16dp</dimen>
+    <item name="dgv_wobble_tag" type="id"/>
+    <!-- From: file:/Users/tindle/AndroidStudioProjects/DynamicGrid/example/res/values/integers.xml -->
+    <eat-comment/>
+    <integer name="column_count">3</integer>
+    <!-- From: file:/Users/tindle/AndroidStudioProjects/DynamicGrid/example/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">DynamicGridExample</string>
+</resources>
